@@ -11,7 +11,7 @@ RubxKube is a community-driven organization that aims to continue the legacy of 
 This organization hosts the following repositories:
 
 - [rubxkube-charts](https://github.com/RubxKube/charts): This repository contains a collection of Helm charts maintained by the RubxKube community. Each chart is designed to package, deploy, and manage a specific application or service on Kubernetes using Helm, the package manager for Kubernetes.
-- [common-templates](https://github.com/RubxKube/common): This repository contains a set of common templates that can be used across different projects and deployments. These templates provide reusable configurations, best practices, and guidelines for various Kubernetes resources
+- [common-charts](https://github.com/RubxKube/common-charts): This repository contains a set of common templates that can be used across different projects and deployments. These templates provide reusable configurations, best practices, and guidelines for various Kubernetes resources
 
 ## Contributing
 
